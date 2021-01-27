@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "39875801191",
+    "project_id": "event-68416",
+    "storage_bucket": "event-68416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39875801191:android:95ec10f1f83f67879e64c2",
+        "android_client_info": {
+          "package_name": "com.mbarra.set_events_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39875801191-kcqin82lk6imsvp1dbduf3uc55610ev8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbarra.set_events_app",
+            "certificate_hash": "347dbdf20c807291ab47b1532cccb004017775bd"
+          }
+        },
+        {
+          "client_id": "39875801191-77ogafaqq97dor3ne7qo6j7g9th1jqag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt40bAXBkPo_N9eH9v-nhLv-wtg-yLBbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39875801191-77ogafaqq97dor3ne7qo6j7g9th1jqag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
