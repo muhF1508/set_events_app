@@ -1,3 +1,3 @@
 # set_events_app
 
-![screenshot](https://blog.codemagic.io/uploads/2020/10/event.gif)
+![screenshot](https://github.com/sbis04/events_demo/raw/master/screenshot/event.gif)
